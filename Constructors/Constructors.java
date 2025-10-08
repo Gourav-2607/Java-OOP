@@ -1,4 +1,3 @@
-package Constructors;
 
 class Student {
     String name;

@@ -1,5 +1,3 @@
-package class_and_objects;
-
 class car{
     String colour;
     String brand;
